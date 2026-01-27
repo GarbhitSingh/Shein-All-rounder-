@@ -41,11 +41,11 @@ except ImportError:
 
 # Globals
 GLOBAL_IMAGE_PATH = None
-TELEGRAM_BOT_TOKEN = "8481476490:AAGSIJ27JtuD_cQNYQUxoEZ3iQXpS1ZJ7eE"
+TELEGRAM_BOT_TOKEN = "8078020961:AAGpLfJTdC9vYn64mEE7y6KfHN7wjRaMTOo"
 IMAGE_URL = "https://i.ibb.co/1JJftbJB/hellio.jpg"
 DEFAULT_BIO = "F - 22 , wish me on 21 november."
 DEFAULT_CAPTION = "Another good day #shein #sheinverse #sheinforall #sheinyourday"
-ADMIN_USER_ID = 8455570642
+ADMIN_USER_ID = 6240677007
 MANDATORY_CHANNEL = "@shein_pro_link"
 TARGET_USER_ID = "77056154878"  # ritika_raj836
 TARGET_USERNAME = "arnav_kumar_singh90"
