@@ -12,8 +12,8 @@ PAGE_SIZE = 40
 MAX_PAGES = 300
 DELAY = 1.5
 
-BOT_TOKEN = "xxxx"
-CHAT_ID = "xxxx"
+BOT_TOKEN = "8545277928:AAEK1jENWSQyVJ9hWireG_T71u9IaNnKwjs"
+CHAT_ID = "6240677007"
 
 SEEN_FILE = "seen_products.txt"
 # ===============================================
